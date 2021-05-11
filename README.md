@@ -1,6 +1,6 @@
 ## Reports
 
-https://github.com/scienceimpact/report/blob/main/
+* [Live reports of the XSEDE Scientific Impact Metrics](https://sciimp.ccr.xdmod.org/xdportalpub/)
 
 * Scientific Impact Metrics for XSEDE2 at Report Year 2 (between Jan 1, 2017 - Apr 30, 2018)
   [docx](https://github.com/scienceimpact/report/blob/main/XSEDE2_SIM_RY2.docx?raw=true)
