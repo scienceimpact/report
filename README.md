@@ -80,40 +80,40 @@ Project completion
 
 Other Reports
     
-  * Fugang Wang, Gregor von Laszewski, Peers Comparison of publications for TG/XD, NCAR, and BlueWaters, Nov 2016, Technical Report, Indiana University, URL: https://github.com/scienceimpact/report/blob/main/presentation/TAS_PeerComparison_Dec2014.pptx
+  * Fugang Wang, Gregor von Laszewski, Peers Comparison of publications for TG/XD, NCAR, and BlueWaters, Nov 2016, Technical Report, Indiana University, URL: <https://github.com/scienceimpact/report/blob/main/presentation/TAS_PeerComparison_Dec2014.pptx>
 
-  * Fugang Wang, Gregor von Laszewski, Bluewaters Scientific Impact Analysis, July 2016, Technical Report, Indiana University, URL: https://github.com/scienceimpact/report/blob/main/BW_ScientificImpact.docx
+  * Fugang Wang, Gregor von Laszewski, Bluewaters Scientific Impact Analysis, July 2016, Technical Report, Indiana University, URL: <https://github.com/scienceimpact/report/blob/main/BW_ScientificImpact.docx>
 
-  * Fugang Wang, Gregor von Laszewski, Peers Comparison of publications for TG/XD, Then and Now, Jan 2017, Technical Report, Indiana University, URL: https://github.com/scienceimpact/report/blob/main/XD_Peers_Summary.docx
+  * Fugang Wang, Gregor von Laszewski, Peers Comparison of publications for TG/XD, Then and Now, Jan 2017, Technical Report, Indiana University, URL: <https://github.com/scienceimpact/report/blob/main/XD_Peers_Summary.docx>
 
-  * Fugang Wang, Gregor von Laszewski, Scientific Impact Metrics Measuring and Tracking for Anton Project, July 2020, Technical Report, Indiana University, URL: https://github.com/scienceimpact/report/blob/main/Anton_2020_07.docx
+  * Fugang Wang, Gregor von Laszewski, Scientific Impact Metrics Measuring and Tracking for Anton Project, July 2020, Technical Report, Indiana University, URL: <https://github.com/scienceimpact/report/blob/main/Anton_2020_07.docx>
 
 
 
 Papers
 
-  * Fugang Wang, Gregor von Laszewski, Timothy Whitson, Geoffrey C. Fox, Thomas R. Furlani, Robert L. DeLeon, and Steven M. Gallo. 2018. Evaluating the Scientific Impact of XSEDE. In Proceedings of the Practice and Experience on Advanced Research Computing (PEARC '18). Association for Computing Machinery, New York, NY, USA, Article 10, 1–8. DOI: https://doi.org/10.1145/3219104.3219124
+  * Fugang Wang, Gregor von Laszewski, Timothy Whitson, Geoffrey C. Fox, Thomas R. Furlani, Robert L. DeLeon, and Steven M. Gallo. 2018. Evaluating the Scientific Impact of XSEDE. In Proceedings of the Practice and Experience on Advanced Research Computing (PEARC '18). Association for Computing Machinery, New York, NY, USA, Article 10, 1–8. DOI: <https://doi.org/10.1145/3219104.3219124>
 
   * von Laszewski, Gregor, Fugang Wang, Geoffrey C. Fox, David L. Hart, Thomas R. Furlani, Robert L. DeLeon, and Steven M. Gallo. "Peer Comparison of XSEDE and NCAR Publication Data," 2015 IEEE International Conference on Cluster Computing, 2015, pp. 531-532, doi: 10.1109/CLUSTER.2015.98.
 
-  * Fugang Wang, Gregor von Laszewski, Geoffrey C. Fox, Thomas R. Furlani, Robert L. DeLeon, and Steven M. Gallo. 2014. Towards a Scientific Impact Measuring Framework for Large Computing Facilities - a Case Study on XSEDE. In Proceedings of the 2014 Annual Conference on Extreme Science and Engineering Discovery Environment (XSEDE '14). Association for Computing Machinery, New York, NY, USA, Article 25, 1–8. DOI: https://doi.org/10.1145/2616498.2616507
+  * Fugang Wang, Gregor von Laszewski, Geoffrey C. Fox, Thomas R. Furlani, Robert L. DeLeon, and Steven M. Gallo. 2014. Towards a Scientific Impact Measuring Framework for Large Computing Facilities - a Case Study on XSEDE. In Proceedings of the 2014 Annual Conference on Extreme Science and Engineering Discovery Environment (XSEDE '14). Association for Computing Machinery, New York, NY, USA, Article 25, 1–8. DOI: <https://doi.org/10.1145/2616498.2616507>
 
   * Comprehensive Evaluation of XSEDE’s Scientific Impact using SemanticScholar Data. submitted to 
-PEARC'21 (https://www.overleaf.com/project/60755de8a80d14aa9b0619b5)
+PEARC'21 (<https://www.overleaf.com/project/60755de8a80d14aa9b0619b5)>
  
 Presentations and Posters
 
-  * Fugang Wang, Gregor von Laszewski, Introduction of the proposed Peers Comparison Method, Dec 22 2014, Presentation, Indiana University, URL: https://github.com/scienceimpact/report/blob/main/presentation/TAS_PeerComparison_Dec2014.pptx
-  * Fugang Wang, Gregor von Laszewski, Peer Comparison of XSEDE and NCAR Publication Data, IEEE Cluster 2015, Poster, URL: https://github.com/scienceimpact/report/blob/main/poster/TAS_Poster_IEEECluster15.pdf
-  * Fugang Wang, Gregor von Laszewski, Peer Comparison of XSEDE Publication Data, XSEDE 2015, Poster, URL: https://github.com/scienceimpact/report/blob/main/poster/TAS_Poster_XSEDE15.pdf
-  * Fugang Wang, Gregor von Laszewski, XMS Scientific Impact, July 2017, Presentation, PEARC'17 XMS Advisory Committee meeting, URL: https://github.com/scienceimpact/report/blob/main/presentation/PEARC17_XMS_sciimp.pptx
-  * Fugang Wang, Gregor von Laszewski, Timothy Whitson, Geoffrey Fox, Thomas Furlani, Robert Deleon, Steven Gallo, Scientific Impact Evaluation of XSEDE, July 2018, Paper Presentation, PEARC'18, URL: https://github.com/scienceimpact/report/blob/main/presentation/XMS_Sciimp_PEARC18.pptx
-  * Fugang Wang, Gregor von Laszewski, Scientific Impact Evaluation for XMS, Jun 19, 2018, Presentation, XMS NSF Site Visit Meeting, URL: https://github.com/scienceimpact/report/blob/main/presentation/XMS_NSF_June2018_FinalDraft.pptx
-  * Fugang Wang, Gregor von Laszewski, Scientific Impact Metrics Update, July 2020, Presentation, XMS Advisory Committee Meeting, URL: https://github.com/scienceimpact/report/blob/main/presentation/XMS_Sciimp_AC2020.pptx
-  * Fugang Wang, Gregor von Laszewski, Scientific Impact Metrics Update, July 2020, Presentation, User Advisory Board Meeting, URL: https://github.com/scienceimpact/report/blob/main/presentation/XMS_Sciimp_UAB2020.pptx
+  * Fugang Wang, Gregor von Laszewski, Introduction of the proposed Peers Comparison Method, Dec 22 2014, Presentation, Indiana University, URL: <https://github.com/scienceimpact/report/blob/main/presentation/TAS_PeerComparison_Dec2014.pptx>
+  * Gregor von Laszewski, Fugang Wang,  Peer Comparison of XSEDE and NCAR Publication Data, IEEE Cluster 2015, Poster, URL: <https://github.com/scienceimpact/report/blob/main/poster/TAS_Poster_IEEECluster15.pdf>
+  * Gregor von Laszewski, Fugang Wang,  Peer Comparison of XSEDE Publication Data, XSEDE 2015, Poster, URL: <https://github.com/scienceimpact/report/blob/main/poster/TAS_Poster_XSEDE15.pdf>
+  * Gregor von Laszewski, Fugang Wang,  XMS Scientific Impact, July 2017, Presentation, PEARC'17 XMS Advisory Committee meeting, URL: <https://github.com/scienceimpact/report/blob/main/presentation/PEARC17_XMS_sciimp.pptx>
+  * Gregor von Laszewski,  Fugang Wang, Timothy Whitson, Geoffrey Fox, Thomas Furlani, Robert Deleon, Steven Gallo, Scientific Impact Evaluation of XSEDE, July 2018, Paper Presentation, PEARC'18, URL: <https://github.com/scienceimpact/report/blob/main/presentation/XMS_Sciimp_PEARC18.pptx>
+  * Gregor von Laszewski, Fugang Wang,  Scientific Impact Evaluation for XMS, Jun 19, 2018, Presentation, XMS NSF Site Visit Meeting, URL: <https://github.com/scienceimpact/report/blob/main/presentation/XMS_NSF_June2018_FinalDraft.pptx>
+  * Gregor von Laszewski, Fugang Wang,  Scientific Impact Metrics Update, July 2020, Presentation, XMS Advisory Committee Meeting, URL: <https://github.com/scienceimpact/report/blob/main/presentation/XMS_Sciimp_AC2020.pptx>
+  * Gregor von Laszewski, Fugang Wang,  Scientific Impact Metrics Update, July 2020, Presentation, User Advisory Board Meeting, URL: <https://github.com/scienceimpact/report/blob/main/presentation/XMS_Sciimp_UAB2020.pptx>
 
 Technical Report References
 
-* Fugang Wang, Gregor von Laszewski, XSEDE Scientific Impact Metrics: Apr 1, 2016 - Jun 30, 2016, Jun 30 2016, Report, Indiana University, URL: https://github.com/scienceimpact/report/blob/main/XSEDE_SIM_2016Q2.pdf
+* Fugang Wang, Gregor von Laszewski, XSEDE Scientific Impact Metrics: Apr 1, 2016 - Jun 30, 2016, Jun 30 2016, Report, Indiana University, URL: <https://github.com/scienceimpact/report/blob/main/XSEDE_SIM_2016Q2.pdf>
 
 
