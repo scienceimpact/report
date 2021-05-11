@@ -79,18 +79,16 @@ Project completion
   * Apr 1, 2016 - July 31, 2021 
 
 Other Reports
+    
+  * Fugang Wang, Gregor von Laszewski, Peers Comparison of publications for TG/XD, NCAR, and BlueWaters, Nov 2016, Technical Report, Indiana University, URL: https://github.com/scienceimpact/report/blob/main/presentation/TAS_PeerComparison_Dec2014.pptx
 
-* NCAR (https://ncar.ucar.edu/)
-  * TODO: find
+  * Fugang Wang, Gregor von Laszewski, Bluewaters Scientific Impact Analysis, July 2016, Technical Report, Indiana University, URL: https://github.com/scienceimpact/report/blob/main/BW_ScientificImpact.docx
 
-* Blue Waters (http://www.ncsa.illinois.edu/enabling/bluewaters)
-  * TODO: find
+  * Fugang Wang, Gregor von Laszewski, Peers Comparison of publications for TG/XD, Then and Now, Jan 2017, Technical Report, Indiana University, URL: https://github.com/scienceimpact/report/blob/main/XD_Peers_Summary.docx
 
-* PSC Anton (https://www.psc.edu/resources/anton/)
-  * TODO: find
+  * Fugang Wang, Gregor von Laszewski, Scientific Impact Metrics Measuring and Tracking for Anton Project, July 2020, Technical Report, Indiana University, URL: https://github.com/scienceimpact/report/blob/main/Anton_2020_07.docx
 
-* XSEDE ECCSS (https://www.xsede.org/for-users/ecss)
-  * TODO: find
+
 
 Papers
 
@@ -114,10 +112,8 @@ Presentations and Posters
   * Fugang Wang, Gregor von Laszewski, Scientific Impact Metrics Update, July 2020, Presentation, XMS Advisory Committee Meeting, URL: https://github.com/scienceimpact/report/blob/main/presentation/XMS_Sciimp_AC2020.pptx
   * Fugang Wang, Gregor von Laszewski, Scientific Impact Metrics Update, July 2020, Presentation, User Advisory Board Meeting, URL: https://github.com/scienceimpact/report/blob/main/presentation/XMS_Sciimp_UAB2020.pptx
 
+Technical Report References
 
-
-Technical Report Refernces
-
-* Fugang Wang, Gregor fon Laszewski, XSEDE Scientific Impact Metrics: Apr 1, 2016 - Jun 30, 2016, Jun 30 2016, Report, Indiana University, URL: https://github.com/scienceimpact/report/blob/main/XSEDE_SIM_2016Q2.pdf
+* Fugang Wang, Gregor von Laszewski, XSEDE Scientific Impact Metrics: Apr 1, 2016 - Jun 30, 2016, Jun 30 2016, Report, Indiana University, URL: https://github.com/scienceimpact/report/blob/main/XSEDE_SIM_2016Q2.pdf
 
 
